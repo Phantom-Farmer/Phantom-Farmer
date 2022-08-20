@@ -2,7 +2,8 @@
 
 [link to my Sorting Hat project](https://github.com/Phantom-Farmer/INDIVIDUAL-PROJECT-sorting-hat)
 
-[sorting]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Joke-Gen-image.png "Sorting-Hat-image"
+[link to example code](https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Joke-Gen-image.png)
+------------------------------------------------------------------------------------------------------------
 
 [link to my Vocab-YOU-lary project](https://github.com/Phantom-Farmer/INDIVIDUAL-ASSIGNMENT-vocab-YOU-lary)
 
