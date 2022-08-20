@@ -8,6 +8,11 @@ In this code I was learning to render cards to the DOM that represented cards by
 
 [link to my Vocab-YOU-lary project](https://github.com/Phantom-Farmer/INDIVIDUAL-ASSIGNMENT-vocab-YOU-lary)
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 [link to my Joke Generator project](https://github.com/Phantom-Farmer/LAB-joke-generator-react)
 
 [link to my Team Roster project](https://github.com/Phantom-Farmer/team-roster)
