@@ -15,19 +15,19 @@ In this code I was learning to render cards to the DOM that represented cards by
 [link to my Vocab-YOU-lary project](https://github.com/Phantom-Farmer/INDIVIDUAL-ASSIGNMENT-vocab-YOU-lary)
 
 Reference-code: 
-![alt text][img]
+![alt text][vocab]
 
-[img]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
-In this code I was learning API calls to pull data from Firebase to be passed into the vacabulary cards I would be rendering.
+[vocab]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
+In this code I was learning API calls to pull data from Firebase to be passed into the vacabulary cards I would be rendering. THe API calls allow me to do CRUD on my project. I can create new cards, read existing ones, edit them, and delate them.
 --------------------------------------------------------------------------------------------
 
 [link to my Joke Generator project](https://github.com/Phantom-Farmer/LAB-joke-generator-react)
 
 Reference-code: 
-![alt text][img]
+![alt text][joke]
 
-[img]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
-In this code I was learning API calls to pull data from Firebase to be passed into the vacabulary cards I would be rendering.
+[joke]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Joke-Gen-image.png
+In this code 
 --------------------------------------------------------------------------------------------
 
 [link to my Team Roster project](https://github.com/Phantom-Farmer/team-roster)
