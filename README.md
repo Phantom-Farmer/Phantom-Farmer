@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[link to my Sorting Hat project](https://github.com/Phantom-Farmer/INDIVIDUAL-PROJECT-sorting-hat)
+
+<img src="images/Sorting-Hat-image.png" alt="sort" title="Sorting-Hat-image">
+
+[link to my Vocab-YOU-lary project](https://github.com/Phantom-Farmer/INDIVIDUAL-ASSIGNMENT-vocab-YOU-lary)
+
+[link to my Joke Generator project](https://github.com/Phantom-Farmer/LAB-joke-generator-react)
+
+[link to my Team Roster project](https://github.com/Phantom-Farmer/team-roster)
+
 <!--
 **Phantom-Farmer/Phantom-Farmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
