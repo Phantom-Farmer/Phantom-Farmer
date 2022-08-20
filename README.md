@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is a project/bio page for Joel Mcanulty/Phantom Farmer. 
+There are links to 4 projects and a link to a screenshot of code for each one, as well as a brief description of what I was learning for that particular code block.
+
 [link to my Sorting Hat project](https://github.com/Phantom-Farmer/INDIVIDUAL-PROJECT-sorting-hat)
 
 Reference-code: 
