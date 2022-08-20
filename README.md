@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-This is a project/bio page for Joel Mcanulty/Phantom Farmer. 
-There are links to 4 projects and a link to a screenshot of code for each one, as well as a brief description of what I was learning for that particular code block.
+This is a project/bio page for Joel Mcanulty/Phantom Farmer.
+
+After years of professional experience in music, cuisine, and screenprinting I decided to try something new and began learning full stack web dev at Nashville Software School.
+
+Here are links to 4 projects and a link to a screenshot of code for each one, as well as a brief description of what I was learning for that particular code block. I am currently working on my front end web dev capstone at Nashville Software School and I will be very excited to add a link to it and code screenshots when it is completed. 
 
 [link to my Sorting Hat project](https://github.com/Phantom-Farmer/INDIVIDUAL-PROJECT-sorting-hat)
 
