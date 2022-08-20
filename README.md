@@ -2,6 +2,8 @@
 
 [link to my Sorting Hat project](https://github.com/Phantom-Farmer/INDIVIDUAL-PROJECT-sorting-hat)
 
+[link to my Vocab-YOU-lary project](https://github.com/Phantom-Farmer/INDIVIDUAL-ASSIGNMENT-vocab-YOU-lary)
+
 [link to my Joke Generator project](https://github.com/Phantom-Farmer/LAB-joke-generator-react)
 
 [link to my Team Roster project](https://github.com/Phantom-Farmer/team-roster)
