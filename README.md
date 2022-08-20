@@ -36,7 +36,7 @@ Reference-code:
 ![alt text][team]
 
 [team]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Team-Roster-image.png
-In this code I was learning to use both useState and useEffect hooks in React in order to do special routing for editing a player. I had to create a new folder of player functions and have a folder for editing specifically because we can not have multiple files with the same name in the same folder, so in order to edit my player, since I already had a routing file for firebaseKey to delete my player, I had to put the firebase file for editing in its own folder.
+In this code I was learning to use both useState, useEffect, and useRouter hooks in React in order to do special routing for editing a player. I had to create a new folder of player functions and have a folder for editing specifically because we can not have multiple files with the same name in the same folder, so in order to edit my player, since I already had a routing file for firebaseKey to delete my player, I had to put the firebase file for editing in its own folder. 
 --------------------------------------------------------------------------------------------
 
 <!--
