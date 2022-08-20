@@ -32,6 +32,13 @@ In this code I was learning how to use the useState hook in React to create a dy
 
 [link to my Team Roster project](https://github.com/Phantom-Farmer/team-roster)
 
+Reference-code: 
+![alt text][joke]
+
+[joke]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Joke-Gen-image.png
+In this code I was learning how to use the useState hook in React to create a dynamic single page app that can use the else/if conditional to decide what data to retrieve from an API for the user to experience a joke set up, a punchline, and then the option to get another joke and continue their humorous experience.
+--------------------------------------------------------------------------------------------
+
 <!--
 **Phantom-Farmer/Phantom-Farmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
