@@ -2,7 +2,10 @@
 
 [link to my Sorting Hat project](https://github.com/Phantom-Farmer/INDIVIDUAL-PROJECT-sorting-hat)
 
-[link to example code](https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Sorting-Hat-image.png)
+Reference-code: 
+![alt text][logo]
+
+[logo]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
 In this code I was learning to render cards to the DOM that represented cards by different houses the students were assigned to. This was before we were using API's or even modularizing our code, so this code is located in a "main.js" file with a slew of other code blocks.
 ------------------------------------------------------------------------------------------------------------
 
