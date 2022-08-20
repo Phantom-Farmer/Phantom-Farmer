@@ -18,9 +18,17 @@ Reference-code:
 ![alt text][img]
 
 [img]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
+In this code I was learning API calls to pull data from Firebase to be passed into the vacabulary cards I would be rendering.
 --------------------------------------------------------------------------------------------
 
 [link to my Joke Generator project](https://github.com/Phantom-Farmer/LAB-joke-generator-react)
+
+Reference-code: 
+![alt text][img]
+
+[img]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
+In this code I was learning API calls to pull data from Firebase to be passed into the vacabulary cards I would be rendering.
+--------------------------------------------------------------------------------------------
 
 [link to my Team Roster project](https://github.com/Phantom-Farmer/team-roster)
 
