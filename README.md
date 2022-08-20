@@ -8,7 +8,7 @@ In this code I was learning to render cards to the DOM that represented cards by
 
 [link to my Vocab-YOU-lary project](https://github.com/Phantom-Farmer/INDIVIDUAL-ASSIGNMENT-vocab-YOU-lary)
 
-Reference-style: 
+Reference-code: 
 ![alt text][logo]
 
 [logo]: https://github.com/Phantom-Farmer/Phantom-Farmer/blob/main/images/Vocab-image.png
